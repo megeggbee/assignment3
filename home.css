@@ -25,3 +25,8 @@ p {
   margin-bottom: 15px;
   border-bottom: #ff7ad9 6px solid; 
 }
+
+.night-mode {
+  background-color: #a690a4
+  color: #f7f5f7
+}
