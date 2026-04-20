@@ -76,7 +76,7 @@ img {
   color: #000000;
 }
 
-#contact-page {padding: 10px;
+#home-page {padding: 10px;
   margin-top: 10px;
   background: #a2eb67;
   color: #000000;
@@ -87,7 +87,7 @@ img {
   width: 25%;
 }
 
-#contact-page:hover {
+#home-page:hover {
   background: #b4f084;
   color: #000000;
 }
