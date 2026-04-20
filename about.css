@@ -38,7 +38,7 @@ p {
 
 .night-mode {
   background-color: #9e9a46;
-  color: white;
+  color: #ffffff;
 }
 
 #toggle-mode {
@@ -55,13 +55,13 @@ p {
 
 #toggle-mode:hover {
   background: #5243f7;
-  color: white;
+  color: #ffffff;
 }
 
 #about-page {padding: 10px;
   margin-top: 10px;
   background: #3020da;
-  color: #white;
+  color: #ffffff;
   border-radius: 14px;
   cursor: pointer;
   font-family: Georgia;
@@ -71,13 +71,13 @@ p {
 
 #about-page:hover {
   background: #5243f7;
-  color: white;
+  color: #ffffff;
 }
 
 #resume-page {padding: 10px;
   margin-top: 10px;
   background: #3020da;
-  color: #white;
+  color: #ffffff;
   border-radius: 14px;
   cursor: pointer;
   font-family: Georgia;
@@ -87,13 +87,13 @@ p {
 
 #resume-page:hover {
   background: #5243f7;
-  color: white;
+  color: #ffffff;
 }
 
 #contact-page {padding: 10px;
   margin-top: 10px;
   background: #3020da;
-  color: #white;
+  color: #ffffff;
   border-radius: 14px;
   cursor: pointer;
   font-family: Georgia;
@@ -103,7 +103,7 @@ p {
 
 #contact-page:hover {
   background: #5243f7;
-  color: white;
+  color: #ffffff;
 }
 
 img {
